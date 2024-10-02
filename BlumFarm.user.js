@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BlumFarm
 // @version      1.1
-// @namespace    KittenWoof
-// @author       KittenWoof
+// @namespace    Mueid Mursalin Rifat
+// @author       Mueid Mursalin Rifat
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/ilfae/ilfae/main/logo.webp
-// @updateURL    http://m90237h7.beget.tech/private_files/BlumFarm.user.js
-// @downloadURL  http://m90237h7.beget.tech/private_files/BlumFarm.user.js
+// @updateURL    https://github.com/Rifat1haker/blum/blob/main/BlumFarm.user.js
+// @downloadURL  https://github.com/Rifat1haker/blum/blob/main/BlumFarm.user.js
 // ==/UserScript==
 
 let GAME_SETTINGS = {
